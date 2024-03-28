@@ -147,6 +147,7 @@ span {
   opacity: 1;
 }
 img {
+  top: -30px;
   width: 100%;
   box-shadow: 0 0 13px 20px solid black;
 }
