@@ -151,3 +151,8 @@ img {
   width: 100%;
   box-shadow: 0 0 13px 20px solid black;
 }
+
+.ribbon {
+   position: relative;
+   top: -20px;
+}
