@@ -121,6 +121,11 @@ span {
   color: rgb(173, 249, 229);
   font-weight: 700;
 }
+
+img {
+  top: -50;
+}
+
 .container .card .info {
   position: absolute;
   top: 0;
